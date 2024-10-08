@@ -1,0 +1,13 @@
+clangd/*
+composer/*
+configstore/*
+menus/*
+pulse/*
+Qt/*
+QtProject/*
+QtProject.conf
+.composer/*
+README.md
+#arquivos de lvim
+lvim/lua/user/dashbord.lua
+lvim/lazy-lock.json

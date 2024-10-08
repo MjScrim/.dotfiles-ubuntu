@@ -22,4 +22,5 @@ lvim.plugins = {
   { 'ishan9299/modus-theme-vim' },
   { 'bluz71/vim-moonfly-colors', name = 'moonfly' },
   { 'HoNamDuong/hybrid.nvim' },
+  { 'AlexvZyl/nordic.nvim' },
 }
